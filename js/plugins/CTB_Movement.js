@@ -1,0 +1,1 @@
+function randomDiagonal(e){e.moveDiagonally((Math.floor((Math.random() * 2) + 1) === 1) ? 4 : 6, (Math.floor((Math.random() * 2) + 1) === 1) ? 2 : 8);}
